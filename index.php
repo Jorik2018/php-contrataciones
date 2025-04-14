@@ -1,3 +1,2 @@
-<?php
-header('Location: /contrataciones/vigentes');
+<?php header('Location: /contrataciones/vigentes');
 ?>
