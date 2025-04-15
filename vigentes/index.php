@@ -35,7 +35,7 @@
 							<p>En esta sección encontrará los concursos públicos que se encuentran vigentes, es decir, en proceso de difusión y/o desarrollo de la etapa de selección.</a></p>
 							<p>Puede remitir sus consultas al correo:&nbsp;<a
 									href="mailto:convocatoriascas@ofis.gob.pe">convocatoriascas@ofis.gob.pe</a>
-									en el horario de 8:30-17:30; cualquier comunicación recibida con posterioridad, será considerada como recibida al día hábil siguiente.</p>
+									en el horario de 08:30 - 17:30; cualquier comunicación recibida con posterioridad, será considerada como recibida al día hábil siguiente.</p>
 
 
 							<table width="100%">
