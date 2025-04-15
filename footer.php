@@ -53,7 +53,7 @@
 										href="https://facilita.gob.pe/t/21819"
 										data-type="URL"
 										data-id="https://facilita.gob.pe/t/21819"
-										target="_blank" rel="noreferrer noopener">Plataforma de transparencia y acceso a información pública</a></p>
+										target="_blank" rel="noreferrer noopener">Acceso a información pública</a></p>
 
 
 
