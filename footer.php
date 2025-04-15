@@ -27,19 +27,19 @@
 								class="wp-block-group is-layout-constrained wp-container-core-group-layout-9 wp-block-group-is-layout-constrained">
 								<p class="has-background-color has-text-color has-link-color wp-elements-ea0e455165a8f30080686a80943bfd57"
 									style="margin-top:0;margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/contacto-con-senace"
+										href="https://www.gob.pe/institucion/ofis/contacto-y-numeros-de-emergencias"
 										data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/contacto-con-senace"
-										target="_blank" rel="noreferrer noopener">Contacto con Senace</a></p>
+										data-id="https://www.gob.pe/institucion/ofis/contacto-y-numeros-de-emergencias"
+										target="_blank" rel="noreferrer noopener">Contacto con OFIS</a></p>
 
 
 
 								<p class="has-background-color has-text-color has-link-color wp-elements-204876f76b335b448350b31ffa091918"
 									style="margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/reclamos-y-denuncias"
+										href="https://reclamos.servicios.gob.pe/?institution_id=6261"
 										data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/reclamos-y-denuncias"
-										target="_blank" rel="noreferrer noopener">Reclamos y denuncias</a></p>
+										data-id="https://reclamos.servicios.gob.pe/?institution_id=6261"
+										target="_blank" rel="noreferrer noopener">Reclamos de reclamanciones</a></p>
 							</div>
 						</div>
 
@@ -50,19 +50,19 @@
 								class="wp-block-group is-layout-constrained wp-container-core-group-layout-10 wp-block-group-is-layout-constrained">
 								<p class="has-background-color has-text-color has-link-color wp-elements-d8416370e562532626abc3ed00bd9843"
 									style="margin-top:0;margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/certificacion-ambiental"
+										href="https://facilita.gob.pe/t/21819"
 										data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/certificacion-ambiental"
-										target="_blank" rel="noreferrer noopener">Certificación ambiental</a></p>
+										data-id="https://facilita.gob.pe/t/21819"
+										target="_blank" rel="noreferrer noopener">Plataforma de transparencia y acceso a información pública</a></p>
 
 
 
 								<p class="has-background-color has-text-color has-link-color wp-elements-69ce6d7b4110b84e1883efd6268fcd9f"
 									style="margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/registros-ambientales"
+										href="https://mesapartesvirtual.ofis.gob.pe/appmesapartesenlinea/inicio?tid=2*mesadepartes"
 										data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/registros-ambientales"
-										target="_blank" rel="noreferrer noopener">Registros ambientales</a></p>
+										data-id="https://mesapartesvirtual.ofis.gob.pe/appmesapartesenlinea/inicio?tid=2*mesadepartes"
+										target="_blank" rel="noreferrer noopener">Mesa de partes</a></p>
 							</div>
 						</div>
 
@@ -73,18 +73,18 @@
 								class="wp-block-group is-layout-constrained wp-container-core-group-layout-11 wp-block-group-is-layout-constrained">
 								<p class="has-background-color has-text-color has-link-color wp-elements-16f694c7a5f4fd5d95436a2040bac42b"
 									style="margin-top:0;margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/datos-senace" data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/datos-senace"
-										target="_blank" rel="noreferrer noopener">Datos Senace</a></p>
+										href="https://www.gob.pe/institucion/ofis/organizacion" data-type="URL"
+										data-id="https://www.gob.pe/institucion/ofis/organizacion"
+										target="_blank" rel="noreferrer noopener">Datos OFIS</a></p>
 
 
 
 								<p class="has-background-color has-text-color has-link-color wp-elements-b057ff3b3e44de3a090230f273736aed"
 									style="margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/tema/participacion-ciudadana"
+										href="https://www.gob.pe/institucion/ofis/funcionarios"
 										data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/tema/participacion-ciudadana"
-										target="_blank" rel="noreferrer noopener">Participación ciudadana</a></p>
+										data-id="https://www.gob.pe/institucion/ofis/funcionarios"
+										target="_blank" rel="noreferrer noopener">Funcionarios</a></p>
 							</div>
 						</div>
 					</div>
@@ -101,16 +101,16 @@
 								class="wp-block-group is-layout-constrained wp-container-core-group-layout-13 wp-block-group-is-layout-constrained">
 								<h3 class="wp-block-heading has-background-color has-text-color has-link-color wp-elements-7bb85e87675fb49a480f1a2eba6e471a"
 									style="margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/senace" data-type="URL"
-										data-id="https://www.gob.pe/senace" target="_blank"
-										rel="noreferrer noopener">Sobre el Senace</a></h3>
+										href="https://www.gob.pe/ofis" data-type="URL"
+										data-id="https://www.gob.pe/ofis" target="_blank"
+										rel="noreferrer noopener">Sobre el OFIS</a></h3>
 
 
 
 								<p class="has-background-color has-text-color has-link-color wp-elements-421c141150e69c5920f9fc1b889726f6"
 									style="margin-bottom:var(--wp--preset--spacing--50)"><a
-										href="https://www.gob.pe/institucion/senace/institucional" data-type="URL"
-										data-id="https://www.gob.pe/institucion/senace/institucional" target="_blank"
+										href="https://www.gob.pe/institucion/ofis/institucional" data-type="URL"
+										data-id="https://www.gob.pe/institucion/ofis/institucional" target="_blank"
 										rel="noreferrer noopener">¿Qué hacemos?</a></p>
 							</div>
 						</div>
@@ -130,7 +130,7 @@
 									<li style="color: #ffffff; "
 										class="wp-social-link wp-social-link-facebook has-background-color wp-block-social-link">
 										<a rel=" noopener nofollow" target="_blank"
-											href="https://www.facebook.com/SenacePeru/"
+											href="#"
 											class="wp-block-social-link-anchor"><svg width="24" height="24"
 												viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
 												aria-hidden="true" focusable="false">
@@ -144,7 +144,7 @@
 									<li style="color: #ffffff; "
 										class="wp-social-link wp-social-link-twitter has-background-color wp-block-social-link">
 										<a rel=" noopener nofollow" target="_blank"
-											href="https://twitter.com/SenacePeru"
+											href="#"
 											class="wp-block-social-link-anchor"><svg width="24" height="24"
 												viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
 												aria-hidden="true" focusable="false">
@@ -158,7 +158,7 @@
 									<li style="color: #ffffff; "
 										class="wp-social-link wp-social-link-instagram has-background-color wp-block-social-link">
 										<a rel=" noopener nofollow" target="_blank"
-											href="https://www.instagram.com/senaceperu/"
+											href="#"
 											class="wp-block-social-link-anchor"><svg width="24" height="24"
 												viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
 												aria-hidden="true" focusable="false">
@@ -172,7 +172,7 @@
 									<li style="color: #ffffff; "
 										class="wp-social-link wp-social-link-linkedin has-background-color wp-block-social-link">
 										<a rel=" noopener nofollow" target="_blank"
-											href="https://linkedin.com/company/senaceperu/"
+											href="#"
 											class="wp-block-social-link-anchor"><svg width="24" height="24"
 												viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
 												aria-hidden="true" focusable="false">
@@ -186,7 +186,7 @@
 									<li style="color: #ffffff; "
 										class="wp-social-link wp-social-link-youtube has-background-color wp-block-social-link">
 										<a rel=" noopener nofollow" target="_blank"
-											href="https://youtube.com/SenacePeru"
+											href="#"
 											class="wp-block-social-link-anchor"><svg width="24" height="24"
 												viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
 												aria-hidden="true" focusable="false">
