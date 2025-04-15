@@ -31,223 +31,27 @@
 						id="wp--skip-link--target">
 						<div
 							class="entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained">
-							<p>En esta sección encontrará las oportunidades laborales para ser parte del equipo del
-								Senace. Para postular a cualquiera de las convocatorias vigentes, deberá primero generar
-								un usuario y contraseña ingresando al&nbsp;<a rel="noreferrer noopener"
-									href="https://enlinea.senace.gob.pe/modulocas/" target="_blank">Módulo de Registro
-									de Postulantes CAS</a>.</p>
-							<p>Una vez registrado en el módulo, podrá acceder al proceso de selección de su interés. Si
-								tiene alguna duda sobre cómo realizar la postulación en línea, puede consultar
-								el&nbsp;<a
-									href="/wp-content/uploads/2017/09/Manual_modulo_registro_CAS.pdf"
-									target="_blank" rel="noreferrer noopener">Manual de Usuario del Módulo de Registro
-									de Postulantes CAS.</a></p>
-							<p>Para conocer más sobre el desarrollo de nuestros procesos CAS&nbsp;<a target="_blank"
-									href="/wp-content/uploads/2018/04/Ayuda-memoria-CAS-Senace.pdf"
-									rel="noreferrer noopener">haz click aquí</a></p>
-
-							<p>Consultas al correo:&nbsp;<a
-									href="mailto:seleccion.rrhh@senace.gob.pe">seleccion.rrhh@senace.gob.pe</a></p>
+							<p>Bienvenido/a al portal web de oportunidades laborales para integrar la familia del Organismo de Focalización e Información Social - OFIS.</a>.</p>
+							<p>En esta sección encontrará los concursos públicos que se encuentran vigentes, es decir, en proceso de difusión y/o desarrollo de la etapa de selección.</a></p>
+							<p>Puede remitir sus consultas al correo:&nbsp;<a
+									href="mailto:convocatoriascas@ofis.gob.pe">convocatoriascas@ofis.gob.pe</a>
+									en el horario de 8:30-17:30; cualquier comunicación recibida con posterioridad, será considerada como recibida al día hábil siguiente.</p>
 
 
 							<table width="100%">
 								<thead>
 									<tr>
 										<th>Nº Proceso</th>
-										<th>Puesto</th>
+										<th>Bases y Anexos</th>
 										<th>Resultados</th>
-										<th>Observaciones</th>
+										<th>Comunicados</th>
 									</tr>
 								</thead>
 								<tbody>
-									<tr>
-										<td>041-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-041-2025-Especialista-Legal-I-2Convocatoria-DEAR.pdf"
-												target="_blank"><strong>ESPECIALISTA LEGAL I (SEGUNDA
-													CONVOCATORIA)</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>032-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-032-2025-Esp-en-Sistemas-Administrativos-I-2Convocatoria-GG.pdf"
-												target="_blank"><strong>ESPECIALISTA EN SISTEMAS ADMINISTRATIVOS I
-													(SEGUNDA CONVOCATORIA)</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>022-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-022-2025-Especialista-Legal-I-3-Convocatoria-DGE-NOR.pdf"
-												target="_blank"><strong>ESPECIALISTA LEGAL I (TERCERA
-													CONVOCATORIA)</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>037-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-037-2025-2Convocatoria-Asesor-PE.pdf"
-												target="_blank"><strong>ASESOR (SEGUNDA CONVOCATORIA)</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-												<li>
-													<a href="/wp-content/uploads/2025/04/Comunicado-Cancelacion-037-2025-2Convocatoria.pdf"
-														target="_blank">Comunicado Cancelacion 037-2025
-														2Convocatoria</a>
-												</li>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>049-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-049-2025-Subdirector-SEA-DGE-1.pdf"
-												target="_blank"><strong>SUB DIRECTOR</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>048-2025</td>
-										<td><a href="/wp-content/uploads/2025/04/CAS-048-2025-Especialista-en-Tesoreria-II-OA-TES.pdf"
-												target="_blank"><strong>ESPECIALISTA EN TESORERIA II</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>016-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-016-2025-2C-Especialista-Legal-I-DEAR.pdf"
-												target="_blank"><strong>ESPECIALISTA LEGAL I – SEGUNDA
-													CONVOCATORIA</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-016-2025-2Convocatoria_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-016-2025-2Convocatoria-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>047-2025</td>
+								<tr>
+										<td>001-2025</td>
 										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>ESPECIALISTA EN PRESUPUESTO</strong></a>
+												target="_blank"><strong>ESPECIALISTA LEGAL</strong></a>
 											<br>
 
 											(1 vacante)
@@ -257,41 +61,17 @@
 
 											<ul>
 
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-047-2025_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
+												<li><a href="#"
+														target="_blank">Inscritos</a></li>
 
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-047-2025-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
+												<li><a href="#"
+														target="_blank">Resultado de conocimiento</a></li>
 
-											</ul>
+												<li><a href="#"
+														target="_blank">Evaluacion curricular</a></li>
 
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>046-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-046-2025-Especialista-Economico-III-DGE-NOR.pdf"
-												target="_blank"><strong>ESPECIALISTA ECONOMICO III</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-046-2025_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-046-2025-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
+												<li><a href="#"
+														target="_blank">Resultado final</a></li>
 
 											</ul>
 
@@ -299,96 +79,10 @@
 
 										<td>
 											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>045-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-045-2025-Especialista-Tecnico-II-DGE-REG.pdf"
-												target="_blank"><strong>ESPECIALISTA TECNICO II</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-045-2025_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-045-2025-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>044-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-044-2025-Especialista-III-en-Gestion-Social-DEIN.pdf"
-												target="_blank"><strong>ESPECIALISTA III EN GESTION SOCIAL</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-044-2025_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-044-2025-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
-
-											</ul>
-										</td>
-
-									</tr>
-									<tr>
-										<td>043-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-043-2025-Especialista-I-Fisico-Ambiental-DEIN.pdf"
-												target="_blank"><strong>ESPECIALISTA I FISICO AMBIENTAL</strong></a>
-											<br>
-
-											(1 vacante)
-
-										</td>
-										<td>
-
-											<ul>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-REQUISITOS-MINIMOS-043-2025_page-0001.pdf"
-														target="_blank">Requisitos mínimos</a></li>
-
-												<li><a href="/wp-content/uploads/2025/04/EVA-CONOCIMIENTOS-CAS-043-2025-publicacion_page-0001.pdf"
-														target="_blank">Evaluación de conocimientos</a></li>
-
-											</ul>
-
-										</td>
-
-										<td>
-											<ul>
+												<li>
+													<a href="#"
+														target="_blank">Comunicado</a>
+												</li>
 
 											</ul>
 										</td>
