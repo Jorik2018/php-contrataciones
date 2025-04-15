@@ -209,11 +209,11 @@
 								<div
 									class="wp-block-uagb-image uagb-block-d50e3dc0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none">
 									<figure class="wp-block-uagb-image__figure"><a class=""
-											href="https://www.gob.pe/senace" target="_blank"
+											href="https://www.gob.pe/ofis" target="_blank"
 											rel="noreferrer noopener"><img decoding="async"
-												srcset="/contrataciones/logo_senace200-300x94.jpg"
+												srcset="/contrataciones/logo_senace200-300x94.jpeg"
 												sizes="(max-width: 480px) 150px"
-												src="/contrataciones/logo_senace200-300x94.jpg"
+												src="/contrataciones/logo_senace200-300x94.jpeg"
 												alt="" class="uag-image-69741" width="200" height="63" title=""
 												loading="lazy"></a></figure>
 								</div>
