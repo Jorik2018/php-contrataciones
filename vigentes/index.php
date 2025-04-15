@@ -24,7 +24,7 @@
 				<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:80%">
 					<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
 						<h2 style="font-size:2.25rem;font-style:normal;font-weight:700;" class="wp-block-post-title">
-							Convocatorias vigentes</h2>
+							Convocatorias Laborales</h2>
 					</div>
 
 					<main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"
@@ -49,13 +49,15 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>001-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>ESPECIALISTA LEGAL</strong></a>
+										<td>001-2025
 											<br>
-
-											(1 vacante)
-
+											ESPECIALISTA LEGAL
+										</td>
+										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
+												target="_blank"><strong>Bases</strong></a>
+											<br>
+											<a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
+												target="_blank"><strong>Anexos</strong></a>
 										</td>
 										<td>
 											<ul>
@@ -76,23 +78,25 @@
 
 										<td>
 											<ul>
-												<li>
-													<a href="#"
-														target="_blank">Comunicado</a>
-												</li>
-
+												<li><a href="#"
+														target="_blank">Comunicado1</a></li>
+												
+												<li><a href="#"
+														target="_blank">Comunicado2</a></li>
 											</ul>
 										</td>
 									</tr>
 
 									<tr>
-										<td>001-2025</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>ESPECIALISTA LEGAL</strong></a>
+										<td>001-2025
 											<br>
-
-											(1 vacante)
-
+											ESPECIALISTA LEGAL
+										</td>
+										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
+												target="_blank"><strong>Bases</strong></a>
+											<br>
+											<a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
+												target="_blank"><strong>Anexos</strong></a>
 										</td>
 										<td>
 											<ul>
@@ -113,11 +117,11 @@
 
 										<td>
 											<ul>
-												<li>
-													<a href="#"
-														target="_blank">Comunicado</a>
-												</li>
-
+												<li><a href="#"
+														target="_blank">Comunicado1</a></li>
+												
+												<li><a href="#"
+														target="_blank">Comunicado2</a></li>
 											</ul>
 										</td>
 									</tr>
