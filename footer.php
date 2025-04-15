@@ -213,7 +213,7 @@
 											rel="noreferrer noopener"><img decoding="async"
 												srcset="/contrataciones/logo_senace200-300x94.jpg"
 												sizes="(max-width: 480px) 150px"
-												src="/contrataciones/logo_senace200-300x94.png"
+												src="/contrataciones/logo_senace200-300x94.jpg"
 												alt="" class="uag-image-69741" width="200" height="63" title=""
 												loading="lazy"></a></figure>
 								</div>
