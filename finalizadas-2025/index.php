@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0058)https://www.senace.gob.pe/contrataciones/finalizadas-2014/ -->
+<!-- saved from url=(0058)https://www.gob.pe/ofis -->
 <html lang="es">
 <?php include '../head.php'; ?>
 
 <body data-rsssl="1" class="page-template page-template-wp-custom-template-pagina-columna page page-id-50374 page-child parent-pageid-172 wp-custom-logo wp-embed-responsive elementor-default elementor-kit-67397">
 
-	<a class="skip-link screen-reader-text" href="https://www.senace.gob.pe/contrataciones/finalizadas-2014/#wp--skip-link--target">Saltar al contenido</a>
+	<a class="skip-link screen-reader-text" href="https://www.gob.pe/ofis">Saltar al contenido</a>
 	<div class="wp-site-blocks">
 	<?php include '../header.php'; ?>
 
