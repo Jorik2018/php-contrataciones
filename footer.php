@@ -211,9 +211,9 @@
 									<figure class="wp-block-uagb-image__figure"><a class=""
 											href="https://www.gob.pe/ofis" target="_blank"
 											rel="noreferrer noopener"><img decoding="async"
-												srcset="/contrataciones/logo_senace200-300x94.jpeg"
+												srcset="/contrataciones/logo_ofis200-300x94.png"
 												sizes="(max-width: 480px) 150px"
-												src="/contrataciones/logo_senace200-300x94.jpeg"
+												src="/contrataciones/logo_ofis200-300x94.png"
 												alt="" class="uag-image-69741" width="200" height="63" title=""
 												loading="lazy"></a></figure>
 								</div>
