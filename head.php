@@ -3,8 +3,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="max-image-preview:large">
-	<title>Convocatorias vigentes – Senace – Servicio Nacional de Certificación Ambiental para las Inversiones
-		Sostenibles</title>
+	<title>Convocatorias vigentes – OFIS – Organismo de Focalización e Información Social</title>
 	<script type="text/javascript" async=""
 		src="./Convocatorias vigentes – Senace – Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles_files/analytics.js"></script>
 	<script type="text/javascript" async=""
