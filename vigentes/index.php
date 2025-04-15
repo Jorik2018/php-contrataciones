@@ -24,7 +24,7 @@
 				<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:80%">
 					<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
 						<h2 style="font-size:2.25rem;font-style:normal;font-weight:700;" class="wp-block-post-title">
-							Convocatorias Laborales</h2>
+							Oportunidades Laborales</h2>
 					</div>
 
 					<main class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"
