@@ -20,7 +20,7 @@
                                 aria-current="page">Convocatorias vigentes</a></li>
 
         <?php 
-        for($i=2025;$i>=2020;$i--){
+        for($i=2025;$i>=2025;$i--){
              
                 ?>
                    <li class="page_item page-item-109487"><a class="<?=("finalizadas-$i")==$path?'bold':''?>"
