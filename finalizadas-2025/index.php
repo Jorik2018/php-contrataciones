@@ -44,11 +44,17 @@
 												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="https://www.senace.gob.pe/wp-content/uploads/2016/11/CAS-104-2014.PDF" target="_blank" rel="noopener noreferrer"><strong>“Especialista Técnico de la Unidad de Registro Administrativo de Certificaciones Ambientales”</strong></a> <br> (1 vacante) </td>
 												<td style="text-align: left;">
 													<ul>
-														<li> <a class="file" href="#" target="_blank" rel="noopener noreferrer"> – Evaluación Curricular </a> </li>
-														<li> <a class="file" href="#" target="_blank" rel="noopener noreferrer"> – Evaluación Conocimientos </a> </li>
+														<li> 
+														
+													 	</li>
+														<li> 
+														
+														</li>
 													</ul>
 													<ul>
-														<li> <a class="file" href="#" target="_blank" rel="noopener noreferrer"> Resultado final </a> </li>
+														<li> 
+														
+													    </li>
 													</ul>
 												</td>
 												<td style="text-align: left;"> </td>
