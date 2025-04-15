@@ -10,6 +10,7 @@
 								<img decoding="async"
 									src="/contrataciones/logoGOB.svg"
 									alt="" class="wp-image-71825" width="127">
+									
 							</figure>
 							<div class="wp-block-group is-layout-flow wp-container-core-group-layout-1 wp-block-group-is-layout-flow"
 								style="border-left-color:var(--wp--preset--color--background);border-left-width:1px;padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20);padding-left:1rem">
