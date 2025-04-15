@@ -48,7 +48,7 @@
 									</tr>
 								</thead>
 								<tbody>
-								<tr>
+									<tr>
 										<td>001-2025</td>
 										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
 												target="_blank"><strong>ESPECIALISTA LEGAL</strong></a>
@@ -58,7 +58,6 @@
 
 										</td>
 										<td>
-
 											<ul>
 
 												<li><a href="#"
@@ -72,9 +71,7 @@
 
 												<li><a href="#"
 														target="_blank">Resultado final</a></li>
-
 											</ul>
-
 										</td>
 
 										<td>
@@ -86,8 +83,45 @@
 
 											</ul>
 										</td>
-
 									</tr>
+
+									<tr>
+										<td>001-2025</td>
+										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
+												target="_blank"><strong>ESPECIALISTA LEGAL</strong></a>
+											<br>
+
+											(1 vacante)
+
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank">Inscritos</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado de conocimiento</a></li>
+
+												<li><a href="#"
+														target="_blank">Evaluacion curricular</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado final</a></li>
+											</ul>
+										</td>
+
+										<td>
+											<ul>
+												<li>
+													<a href="#"
+														target="_blank">Comunicado</a>
+												</li>
+
+											</ul>
+										</td>
+									</tr>
+
 								</tbody>
 							</table>
 						</div>
