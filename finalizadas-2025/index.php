@@ -62,7 +62,7 @@
 
 											<tr>
 												<td>
-													<p class="recruitment__number"> <strong>--</strong> </p>
+													<p class="recruitment__number"> <strong>   </strong> </p>
 												</td>
 												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>  </strong></a> <br>  </td>
 												<td style="text-align: left;">
