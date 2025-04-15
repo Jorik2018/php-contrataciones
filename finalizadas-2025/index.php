@@ -39,9 +39,9 @@
 										<tbody>
 											<tr>
 												<td>
-													<p class="recruitment__number"> <strong>001-2025</strong> </p>
+													<p class="recruitment__number"> <strong>--</strong> </p>
 												</td>
-												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="https://www.senace.gob.pe/wp-content/uploads/2016/11/CAS-104-2014.PDF" target="_blank" rel="noopener noreferrer"><strong>“Especialista Técnico de la Unidad de Registro Administrativo de Certificaciones Ambientales”</strong></a> <br> (1 vacante) </td>
+												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>--</strong></a> <br> (1 vacante) </td>
 												<td style="text-align: left;">
 													<ul>
 														<li> 
