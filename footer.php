@@ -75,7 +75,7 @@
 									style="margin-top:0;margin-bottom:var(--wp--preset--spacing--50)"><a
 										href="https://www.gob.pe/institucion/ofis/organizacion" data-type="URL"
 										data-id="https://www.gob.pe/institucion/ofis/organizacion"
-										target="_blank" rel="noreferrer noopener">Datos OFIS</a></p>
+										target="_blank" rel="noreferrer noopener">Organización</a></p>
 
 
 
