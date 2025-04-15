@@ -30,7 +30,7 @@
 									<table width="100%">
 										<thead>
 											<tr>
-												<th style="width:15%;">Nº Proceso</th>
+												<th style="width:15%;">Concurso Publico CAS Nº</th>
 												<th style="width:45%;">Base y Anexo</th>
 												<th style="width:20%;">Resultados</th>
 												<th style="width:20%;">Comunicados</th>
@@ -39,7 +39,7 @@
 										<tbody>
 											<tr>
 												<td>
-													<p class="recruitment__number"> <strong>--</strong> </p>
+													<p class="recruitment__number"> <strong>   </strong> </p>
 												</td>
 												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
 												<td style="text-align: left;">

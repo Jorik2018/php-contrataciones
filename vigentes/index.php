@@ -41,7 +41,7 @@
 							<table width="100%">
 								<thead>
 									<tr>
-										<th>Nº Proceso</th>
+										<th>Concurso Publico CAS Nº</th>
 										<th>Bases y Anexos</th>
 										<th>Resultados</th>
 										<th>Comunicados</th>
