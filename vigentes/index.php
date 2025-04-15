@@ -53,11 +53,15 @@
 											<br>
 											ESPECIALISTA LEGAL
 										</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>Bases</strong></a>
-											<br>
-											<a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>Anexos</strong></a>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank">Bases</a></li>
+
+												<li><a href="#"
+														target="_blank">Anexos</a></li>
+											</ul>
 										</td>
 										<td>
 											<ul>
@@ -75,7 +79,6 @@
 														target="_blank">Resultado final</a></li>
 											</ul>
 										</td>
-
 										<td>
 											<ul>
 												<li><a href="#"
@@ -92,11 +95,15 @@
 											<br>
 											ESPECIALISTA LEGAL
 										</td>
-										<td><a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>Bases</strong></a>
-											<br>
-											<a href="/wp-content/uploads/2025/03/CAS-047-2025-Especialista-en-Presupuesto-OPP-PRE.pdf"
-												target="_blank"><strong>Anexos</strong></a>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank">Bases</a></li>
+
+												<li><a href="#"
+														target="_blank">Anexos</a></li>
+											</ul>
 										</td>
 										<td>
 											<ul>
@@ -114,7 +121,6 @@
 														target="_blank">Resultado final</a></li>
 											</ul>
 										</td>
-
 										<td>
 											<ul>
 												<li><a href="#"
