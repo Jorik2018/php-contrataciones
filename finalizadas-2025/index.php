@@ -42,22 +42,7 @@
 													<p class="recruitment__number"> <strong>   </strong> </p>
 												</td>
 												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-												<td style="text-align: left;">
-													<ul>
-														<li> 
-														
-													 	</li>
-														<li> 
-														
-														</li>
-													</ul>
-													<ul>
-														<li> 
-														
-													    </li>
-													</ul>
-												</td>
-												<td style="text-align: left;"> </td>
+												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
 											</tr>
 
 											<tr>
@@ -65,22 +50,15 @@
 													<p class="recruitment__number"> <strong>   </strong> </p>
 												</td>
 												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>  </strong></a> <br>  </td>
-												<td style="text-align: left;">
-													<ul>
-														<li> 
-														
-													 	</li>
-														<li> 
-														
-														</li>
-													</ul>
-													<ul>
-														<li> 
-														
-													    </li>
-													</ul>
+												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
+											</tr>
+
+											<tr>
+												<td>
+													<p class="recruitment__number"> <strong>   </strong> </p>
 												</td>
-												<td style="text-align: left;"> </td>
+												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>  </strong></a> <br>  </td>
+												<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
 											</tr>
 										</tbody>
 									</table>
