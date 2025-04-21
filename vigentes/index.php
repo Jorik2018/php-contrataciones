@@ -748,7 +748,7 @@
 
 									<td>006-2025
 											<br>
-											(01) Subdirector de Formación y Acreditación
+											(01) Subdirector de Formación y Acreditación para la Subdirección de Formación y Acreditación de la Dirección de Desarrollo de Capacidades y Despliegue Territorial
 										</td>
 										<td>
 											<ul>
@@ -789,7 +789,7 @@
 
 									<td>005-2025
 											<br>
-											(01) Director de Desarrollo de Capacidades y Despliegue Territorial
+											(01) Director de Desarrollo de Capacidades y Despliegue Territorial para la Dirección de Desarrollo de Capacidades y Despliegue Territorial
 										</td>
 										<td>
 											<ul>
@@ -830,7 +830,7 @@
 
 									<td>004-2025
 											<br>
-											(01) Especialista en Redes y Soporte Informático
+											(01) Especialista en Redes y Soporte Informático para la Subdirección de Gestión de Servicios e Infraestructura Tecnológica de la Dirección de Sistemas de Información Social
 										</td>
 										<td>
 											<ul>
@@ -871,7 +871,7 @@
 
 									<td>003-2025
 											<br>
-											(01) Subdirector de Gestión de Servicios e Infraestructura Tecnológica
+											(01) Subdirector de Gestión de Servicios e Infraestructura Tecnológica para la Subdirección de Gestión de Servicios e Infraestructura Tecnológica de la Dirección de Sistemas de Información Social
 										</td>
 										<td>
 											<ul>
