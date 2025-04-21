@@ -913,7 +913,7 @@
 									<tr>
 										<td>002-2025
 											<br>
-											(01) Especialista en Gobierno de Datos
+											(01) Especialista en Gobierno de Datos para la Subdirección de Gobierno de Datos de la Dirección de Gobierno de Datos y Supervisión
 										</td>
 										<td>
 											<ul>
@@ -955,7 +955,7 @@
 									<tr>
 										<td>001-2025
 											<br>
-											(01) Subdirector de Gobierno de Datos
+											(01) Subdirector de Gobierno de Datos para la Subdirección de Gobierno de Datos de la Dirección de Gobierno de Datos y Supervisión
 										</td>
 										<td>
 											<ul>
