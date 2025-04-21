@@ -49,85 +49,127 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td>001-2025
+										<td> 
 											<br>
-											ESPECIALISTA LEGAL
+											 
 										</td>
 										<td>
 											<ul>
 
 												<li><a href="#"
-														target="_blank">Bases</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Anexos</a></li>
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 										<td>
 											<ul>
 
 												<li><a href="#"
-														target="_blank">Inscritos</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Resultado de conocimiento</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Evaluacion curricular</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Resultado final</a></li>
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 										<td>
 											<ul>
 												<li><a href="#"
-														target="_blank">Comunicado1</a></li>
+														target="_blank"> </a></li>
 												
 												<li><a href="#"
-														target="_blank">Comunicado2</a></li>
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 									</tr>
 
 									<tr>
-										<td>001-2025
+										<td> 
 											<br>
-											ESPECIALISTA LEGAL
+											 
 										</td>
 										<td>
 											<ul>
 
 												<li><a href="#"
-														target="_blank">Bases</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Anexos</a></li>
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 										<td>
 											<ul>
 
 												<li><a href="#"
-														target="_blank">Inscritos</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Resultado de conocimiento</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Evaluacion curricular</a></li>
+														target="_blank"> </a></li>
 
 												<li><a href="#"
-														target="_blank">Resultado final</a></li>
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 										<td>
 											<ul>
 												<li><a href="#"
-														target="_blank">Comunicado1</a></li>
+														target="_blank"> </a></li>
 												
 												<li><a href="#"
-														target="_blank">Comunicado2</a></li>
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+									</tr>
+
+									<tr>
+										<td> 
+											<br>
+											 
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank"> </a></li>
+												
+												<li><a href="#"
+														target="_blank"> </a></li>
 											</ul>
 										</td>
 									</tr>
