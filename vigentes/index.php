@@ -967,31 +967,8 @@
 														target="_blank">Anexos</a></li>
 											</ul>
 										</td>
-										<td>
-											<ul>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-
-												<li><a href="#"
-														target="_blank">  </a></li>
-											</ul>
-										</td>
-										<td>
-											<ul>
-												<li><a href="#"
-														target="_blank">  </a></li>
-												
-												<li><a href="#"
-														target="_blank">  </a></li>
-											</ul>
-										</td>
+										<td style="text-align: left;"> </td>
+										<td style="text-align: left;"> </td>
 									</tr>
 
 								</tbody>
