@@ -53,9 +53,41 @@
 											<br>
 											 
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank"> </a></li>
+												
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
 									</tr>
 
 									<tr>
@@ -63,9 +95,41 @@
 											<br>
 											 
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank"> </a></li>
+												
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
 									</tr>
 
 									<tr>
@@ -73,9 +137,41 @@
 											<br>
 											 
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank"> </a></li>
+												
+												<li><a href="#"
+														target="_blank"> </a></li>
+											</ul>
+										</td>
 									</tr>
 
 								</tbody>
