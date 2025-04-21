@@ -971,25 +971,25 @@
 											<ul>
 
 												<li><a href="#"
-														//target="_blank">   </a></li>
+														target="_blank">   </a></li>
 
 												<li><a href="#"
-														//target="_blank">   </a></li>
+														target="_blank">   </a></li>
 
 												<li><a href="#"
-														//target="_blank">   </a></li>
+														target="_blank">   </a></li>
 
 												<li><a href="#"
-														//target="_blank">  </a></li>
+														target="_blank">  </a></li>
 											</ul>
 										</td>
 										<td>
 											<ul>
 												<li><a href="#"
-														//target="_blank">  </a></li>
+														target="_blank">  </a></li>
 												
 												<li><a href="#"
-														//target="_blank">  </a></li>
+														target="_blank">  </a></li>
 											</ul>
 										</td>
 									</tr>
