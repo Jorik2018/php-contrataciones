@@ -49,53 +49,87 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td> 
+										<td>001-2025
 											<br>
-											 
+											Subdirector de Gobierno de Datos
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
+										<td>
+											<ul>
+
+												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
+														target="_blank">Bases</a></li>
+
+												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
+														target="_blank">Anexos</a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+
+												<li><a href="#"
+														target="_blank">Inscritos</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado de conocimiento</a></li>
+
+												<li><a href="#"
+														target="_blank">Evaluacion curricular</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado final</a></li>
+											</ul>
+										</td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank">Comunicado1</a></li>
+												
+												<li><a href="#"
+														target="_blank">Comunicado2</a></li>
+											</ul>
+										</td>
 									</tr>
 
 									<tr>
-										<td> 
+										<td>001-2025
 											<br>
-											 
+											ESPECIALISTA LEGAL
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
-									</tr>
+										<td>
+											<ul>
 
-									<tr>
-										<td> 
-											<br>
-											 
-										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
-									</tr>
+												<li><a href="#"
+														target="_blank">Bases</a></li>
 
-									<tr>
-										<td> 
-											<br>
-											 
+												<li><a href="#"
+														target="_blank">Anexos</a></li>
+											</ul>
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
-									</tr>
+										<td>
+											<ul>
 
-									<tr>
-										<td> 
-											<br>
-											 
+												<li><a href="#"
+														target="_blank">Inscritos</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado de conocimiento</a></li>
+
+												<li><a href="#"
+														target="_blank">Evaluacion curricular</a></li>
+
+												<li><a href="#"
+														target="_blank">Resultado final</a></li>
+											</ul>
 										</td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left; padding:0px 15px;"> <a class="abc" href="#" target="_blank" rel="noopener noreferrer"><strong>   </strong></a> <br>  </td>
-										<td style="text-align: left;"> </td>
+										<td>
+											<ul>
+												<li><a href="#"
+														target="_blank">Comunicado1</a></li>
+												
+												<li><a href="#"
+														target="_blank">Comunicado2</a></li>
+											</ul>
+										</td>
 									</tr>
 
 								</tbody>
