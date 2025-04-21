@@ -51,7 +51,7 @@
 								<tr>
 									<td>023-2025
 											<br>
-											
+											Especialista en Control Patrimonial y Almacén
 										</td>
 										<td>
 											<ul>
@@ -92,7 +92,7 @@
 
 									<td>022-2025
 											<br>
-											
+											Especialista en Contrataciones Públicas
 										</td>
 										<td>
 											<ul>
@@ -133,7 +133,7 @@
 
 									<td>021-2025
 											<br>
-											
+											Especialista Legal
 										</td>
 										<td>
 											<ul>
@@ -174,7 +174,7 @@
 
 									<td>020-2025
 											<br>
-											
+											Especialista en Gestión de la Compensación y Control de Asistencia
 										</td>
 										<td>
 											<ul>
@@ -215,7 +215,7 @@
 
 									<td>019-2025
 											<br>
-											
+											Especialista en Gestión de la Capacitación y Rendimiento
 										</td>
 										<td>
 											<ul>
@@ -256,7 +256,7 @@
 
 									<td>018-2025
 											<br>
-											
+											Especialista en Integración Contable
 										</td>
 										<td>
 											<ul>
@@ -297,7 +297,7 @@
 
 									<td>017-2025
 											<br>
-											
+											Especialista en Control Previo
 										</td>
 										<td>
 											<ul>
@@ -338,7 +338,7 @@
 
 									<td>016-2025
 											<br>
-											
+											Coordinador/a en Tesorería
 										</td>
 										<td>
 											<ul>
@@ -379,48 +379,7 @@
 
 									<td>015-2025
 											<br>
-											
-										</td>
-										<td>
-											<ul>
-
-												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
-														target="_blank">Bases</a></li>
-
-												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
-														target="_blank">Anexos</a></li>
-											</ul>
-										</td>
-										<td>
-											<ul>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-
-												<li><a href="#"
-														target="_blank">  </a></li>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-
-												<li><a href="#"
-														target="_blank">   </a></li>
-											</ul>
-										</td>
-										<td>
-											<ul>
-												<li><a href="#"
-														target="_blank">   </a></li>
-												
-												<li><a href="#"
-														target="_blank">   </a></li>
-											</ul>
-										</td>
-									</tr>
-
-									<td>015-2025
-											<br>
-											
+											Especialista en Sistemas Administrativos del Estado
 										</td>
 										<td>
 											<ul>
@@ -461,7 +420,7 @@
 
 									<td>014-2025
 											<br>
-											
+											Especialista en Planeamiento Estratégico e Inversiones
 										</td>
 										<td>
 											<ul>
@@ -502,7 +461,7 @@
 
 									<td>013-2025
 											<br>
-											
+											Especialista en Presupuesto
 										</td>
 										<td>
 											<ul>
@@ -543,7 +502,7 @@
 
 									<td>012-2025
 											<br>
-											
+											Especialista Legal
 										</td>
 										<td>
 											<ul>
@@ -584,7 +543,7 @@
 
 									<td>011-2025
 											<br>
-											
+											Especialista en Gestión de Intervenciones Públicas
 										</td>
 										<td>
 											<ul>
@@ -625,7 +584,7 @@
 
 								<td>010-2025
 											<br>
-											
+											Especialista en Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -666,7 +625,7 @@
 
 									<td>009-2025
 											<br>
-											
+											Subdirector de Atención al Ciudadano y Gestión de Solicitudes
 										</td>
 										<td>
 											<ul>
@@ -707,7 +666,7 @@
 
 									<td>008-2025
 											<br>
-											
+											Subdirector de Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -748,7 +707,7 @@
 
 									<td>007-2025
 											<br>
-											
+											Director de Relacionamiento y Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -789,7 +748,7 @@
 
 									<td>006-2025
 											<br>
-											
+											Subdirector de Formación y Acreditación
 										</td>
 										<td>
 											<ul>
@@ -830,7 +789,7 @@
 
 									<td>005-2025
 											<br>
-											
+											Director de Desarrollo de Capacidades y Despliegue Territorial
 										</td>
 										<td>
 											<ul>
@@ -871,7 +830,7 @@
 
 									<td>004-2025
 											<br>
-											
+											Especialista en Redes y Soporte Informático
 										</td>
 										<td>
 											<ul>
@@ -912,7 +871,7 @@
 
 									<td>003-2025
 											<br>
-											
+											Subdirector de Gestión de Servicios e Infraestructura Tecnológica
 										</td>
 										<td>
 											<ul>
@@ -954,7 +913,7 @@
 									<tr>
 										<td>002-2025
 											<br>
-											
+											Especialista en Gobierno de Datos
 										</td>
 										<td>
 											<ul>
