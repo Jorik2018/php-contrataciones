@@ -51,7 +51,7 @@
 								<tr>
 									<td>023-2025
 											<br>
-											(01) Especialista en Control Patrimonial y Almacén
+											(01) Especialista en Control Patrimonial y Almacén para la Unidad de Abastecimiento y Control Patrimonial de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -92,7 +92,7 @@
 
 									<td>022-2025
 											<br>
-											(01) Especialista en Contrataciones Públicas
+											(01) Especialista en Contrataciones Públicas para la Unidad de Abastecimiento y Control Patrimonial de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -133,7 +133,7 @@
 
 									<td>021-2025
 											<br>
-											(01) Especialista Legal
+											(01) Especialista Legal para la Unidad de Recursos Humanos de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -174,7 +174,7 @@
 
 									<td>020-2025
 											<br>
-											(01) Especialista en Gestión de la Compensación y Control de Asistencia
+											(01) Especialista en Gestión de la Compensación y Control de Asistencia para la Unidad de Recursos Humanos de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -215,7 +215,7 @@
 
 									<td>019-2025
 											<br>
-											(01) Especialista en Gestión de la Capacitación y Rendimiento
+											(01) Especialista en Gestión de la Capacitación y Rendimiento para la Unidad de Recursos Humanos de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -256,7 +256,7 @@
 
 									<td>018-2025
 											<br>
-											(01) Especialista en Integración Contable
+											(01) Especialista en Integración Contable para la Unidad de Finanzas de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -297,7 +297,7 @@
 
 									<td>017-2025
 											<br>
-											(01) Especialista en Control Previo
+											(01) Especialista en Control Previo para la Unidad de Finanzas de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -338,7 +338,7 @@
 
 									<td>016-2025
 											<br>
-											(01) Coordinador/a en Tesorería
+											(01) Coordinador/a en Tesorería para la Unidad de Finanzas de la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -379,7 +379,7 @@
 
 									<td>015-2025
 											<br>
-											(01) Especialista en Sistemas Administrativos del Estado
+											(01) Especialista en Sistemas Administrativos del Estado para la Oficina de Administración
 										</td>
 										<td>
 											<ul>
@@ -420,7 +420,7 @@
 
 									<td>014-2025
 											<br>
-											(01) Especialista en Planeamiento Estratégico e Inversiones
+											(01) Especialista en Planeamiento Estratégico e Inversiones para la Unidad de Planeamiento y Modernización de la Oficina de Planeamiento, Presupuesto y Modernización
 										</td>
 										<td>
 											<ul>
@@ -461,7 +461,7 @@
 
 									<td>013-2025
 											<br>
-											(01) Especialista en Presupuesto
+											(01) Especialista en Presupuesto para la Unidad de Presupuesto de la Oficina de Planeamiento, Presupuesto y Modernización
 										</td>
 										<td>
 											<ul>
@@ -502,7 +502,7 @@
 
 									<td>012-2025
 											<br>
-											(01) Especialista Legal
+											(01) Especialista Legal para la Oficina de Asesoría Jurídica
 										</td>
 										<td>
 											<ul>
@@ -543,7 +543,7 @@
 
 									<td>011-2025
 											<br>
-											(01) Especialista en Gestión de Intervenciones Públicas
+											(01) Especialista en Gestión de Intervenciones Públicas para la Subdirección de Diseño de Focalización de la Dirección de Diseño y Metodologías para la Focalización y la Gestión de la Información Social
 										</td>
 										<td>
 											<ul>
@@ -584,7 +584,7 @@
 
 								<td>010-2025
 											<br>
-											(01) Especialista en Comunicación Social
+											(01) Especialista en Comunicación Social para la Subdirección de Comunicación Social de la Dirección de Relacionamiento y Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -625,7 +625,7 @@
 
 									<td>009-2025
 											<br>
-											(01) Subdirector de Atención al Ciudadano y Gestión de Solicitudes
+											(01) Subdirector de Atención al Ciudadano y Gestión de Solicitudes para la Subdirección de Atención al Ciudadano y Gestión de Solicitudes de la Dirección de Relacionamiento y Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -666,7 +666,7 @@
 
 									<td>008-2025
 											<br>
-											(01) Subdirector de Comunicación Social
+											(01) Subdirector de Comunicación Social para la Subdirección de Comunicación Social de la Dirección de Relacionamiento y Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -707,7 +707,7 @@
 
 									<td>007-2025
 											<br>
-											(01) Director de Relacionamiento y Comunicación Social
+											(01) Director de Relacionamiento y Comunicación Social para la Dirección de Relacionamiento y Comunicación Social
 										</td>
 										<td>
 											<ul>
@@ -794,7 +794,7 @@
 										<td>
 											<ul>
 
-												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
+												<li><a href="https://drive.google.com/file/d/1_bzN6SMgdZoqm_JquscD_bd5TMubxXJY/view?usp=sharing"
 														target="_blank">Bases</a></li>
 
 												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
@@ -835,7 +835,7 @@
 										<td>
 											<ul>
 
-												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
+												<li><a href="https://drive.google.com/file/d/1-r61_ZMW7dOd94zlcaDOI5ipmWe_bo7D/view?usp=sharing"
 														target="_blank">Bases</a></li>
 
 												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
@@ -876,7 +876,7 @@
 										<td>
 											<ul>
 
-												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
+												<li><a href="https://drive.google.com/file/d/1781h9GeXlD3451TWBfmRo5wSWImMrS7E/view?usp=sharing"
 														target="_blank">Bases</a></li>
 
 												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
@@ -918,7 +918,7 @@
 										<td>
 											<ul>
 
-												<li><a href="https://drive.google.com/file/d/1oSlDi58nosqwlRJyji7597EUcI41tJNp/view?usp=sharing"
+												<li><a href="https://drive.google.com/file/d/1XNip9_9RWYYCnTGo6hSEjLWm0f8Ty30z/view?usp=sharing"
 														target="_blank">Bases</a></li>
 
 												<li><a href="https://docs.google.com/document/d/1upUQcwfd5YnWyMvV--tXRrXOUj-w_9C5/edit?usp=drive_link&ouid=102538049623298398210&rtpof=true&sd=true"
