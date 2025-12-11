@@ -192,7 +192,7 @@
             $(document).ready(function () {
                 $('#convocatorias').DataTable({
                     ajax: {
-                        url: 'controllers/vista.php?op=listar&status='<?=$_GET['status']?>,
+                        url: 'controllers/vista.php?op=listar&status=<?=$_GET['status']?>',
                         type: 'GET',
                         dataSrc: 'data'
                     },
