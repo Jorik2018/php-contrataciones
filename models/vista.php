@@ -24,4 +24,9 @@ class Vista{
         return Connection::executeQueryAsoc($sql);
     }
 
+    static public function getYears ($status){
+        $sql = "SELECT distinct ano FROM convocatorias";
+        return Connection::executeQueryAsoc($sql);
+    }
+
 }
