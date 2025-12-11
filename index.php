@@ -235,7 +235,7 @@ $years=$VistaModel::getYears(null);
                                 const desc = item.description || 'Archivo';
 
                                 html += `
-                                    <li style="margin-bottom: 4px;">
+                                    <li style="margin-bottom: 4px; list-style: none;">
                                         <a href="${file}" target="_blank">
                                             <i class="fa-solid fa-file-pdf" style="color:#d9534f; margin-right:6px;"></i>
                                             ${desc}
