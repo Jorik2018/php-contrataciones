@@ -4,7 +4,7 @@ require_once "connection.php";
 
 class Vista{
     
-    static public function getDataSelect (){
+    static public function getDataSelect ($status){
         $sql = "SELECT 
                 c.idconvocatoria,
                 c.ano,
@@ -18,7 +18,9 @@ class Vista{
                 GROUP_CONCAT(CASE WHEN r.tipo = 'observaciones' THEN r.descripcion END SEPARATOR ', ') AS observaciones_descripciones
             FROM respuestas r
             JOIN convocatorias c ON r.idconvocatoria = c.idconvocatoria
-            GROUP BY c.idconvocatoria";
+            ".
+            (isset($status)?" WHERE c.status='$status'":"").
+            "GROUP BY c.idconvocatoria";
         return Connection::executeQueryAsoc($sql);
     }
 
