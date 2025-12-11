@@ -102,8 +102,8 @@ $years=$VistaModel::getYears($_GET["status"]);
  foreach ($years as $item){
 ?>
     <li>
-        <a href="?year=<?= $item->ano ?>">
-            <?= $item->ano ?>
+        <a href="?year=<?= $item['ano'] ?>">
+            <?= $item['ano'] ?>
         </a>
     </li>
 <?
