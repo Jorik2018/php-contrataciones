@@ -208,7 +208,6 @@ $years=$VistaModel::getYears(null);
         <script src="https://cdn.datatables.net/1.13.7/js/dataTables.bootstrap5.min.js"></script>
         <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
-      integrity="sha512-iN0NlpABlznrb74shArPnT3uFoxIjb+fJswurN0IkqK0WTXyLwS2IPUFKbZvFwZyM0CnNOCzEFPp9jayN8E2Ig=="
       crossorigin="anonymous" referrerpolicy="no-referrer" />
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js" integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
