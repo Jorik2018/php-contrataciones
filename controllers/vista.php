@@ -25,7 +25,7 @@ switch ($_GET["op"]) {
             }, explode(', ', $anexos_archivos), explode(', ', $anexos_descripciones))) : '';
 
             $resultados = $resultados_archivos ? array_map(function ($archivo, $descripcion) {
-                return [$archivo ,$descripcion];
+                return ['fileName'=>$archivo ,'description'=>$descripcion];
             }, explode(', ', $resultados_archivos), explode(', ', $resultados_descripciones)) : '';
 
             $observaciones = $observaciones_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
