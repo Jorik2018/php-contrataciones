@@ -218,7 +218,11 @@ $years=$VistaModel::getYears(null);
                     columns: [
                         {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
                         {data: 'anexos', title: 'Bases y Anexos', orderable: false},
-                        {data: 'resultados', title: 'Resultados', orderable: false},
+                        {data: 'resultados', title: 'Resultados', orderable: false, render: function (data, type, row) {
+
+
+        return 333;
+    }},
                         {data: 'observaciones', title: 'Comunicados', orderable: false}
                     ],
                     order: [[0, 'desc']],
