@@ -11,7 +11,7 @@ class Respuestas{
     }
     */
     static public function getDataSelect (){
-        $sql = "SELECT * FROM convocatorias order by idconvocatoria desc";
+        $sql = "SELECT * FROM convocatorias WHERE not status='C' order by idconvocatoria desc";
         return Connection::executeQuery($sql);
     }
 
