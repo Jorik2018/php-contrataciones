@@ -30,5 +30,4 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./  # Asumiendo que el contenido del plugin está en la raíz del repo
           server-dir: /engagement/
-          #dangerous-clean-slate: true  # Opcional, elimina archivos antiguos
-          
+          #dangerous-clean-slate: true  # Opcional, elimina archivos antiguo
