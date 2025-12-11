@@ -219,9 +219,14 @@ $years=$VistaModel::getYears(null);
                         {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
                         {data: 'anexos', title: 'Bases y Anexos', orderable: false},
                         {data: 'resultados', title: 'Resultados', orderable: false, render: function (data, type, row) {
-
-
-        return data.map(({fileName,description})=>({fileName, description}));
+                if (!Array.isArray(data) || data.length === 0) {
+            return '<span class="text-muted">Sin resultados</span>';
+        }
+        return data.map(item => {
+            const file = item.fileName || '#';
+            const desc = item.description || 'Archivo';
+            return `<a href="${file}" target="_blank" class="d-block">${desc}</a>`;
+        }).join('');
     }},
                         {data: 'observaciones', title: 'Comunicados', orderable: false}
                     ],
