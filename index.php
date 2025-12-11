@@ -237,7 +237,7 @@ $years=$VistaModel::getYears(null);
                                 html += `
                                     <li style="margin-bottom: 4px;">
                                         <a href="${file}" target="_blank">
-                                            <i class="fa fa-file-pdf-o" style="color:#d9534f; margin-right:6px;"></i>
+                                            <i class="fa-solid fa-file-pdf" style="color:#d9534f; margin-right:6px;"></i>
                                             ${desc}
                                         </a>
                                     </li>
