@@ -1,7 +1,7 @@
 # Ignore Composer stuff
 /vendor/
 /upload/
-
+settings.php
 
 # Ignore Concrete stuff
 /public/concrete

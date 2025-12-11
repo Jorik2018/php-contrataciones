@@ -8,7 +8,7 @@ class Connection
 
     static public function infoDatabase()
     {
-        return include(__DIR__ . '/settings.php');
+        return include(__DIR__ . '../settings.php');
     }
 
     /**
