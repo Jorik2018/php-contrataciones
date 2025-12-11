@@ -211,7 +211,7 @@ $years=$VistaModel::getYears(null);
             $(document).ready(function () {
                 $('#convocatorias').DataTable({
                     ajax: {
-                        url: 'controllers/vista.php?op=listar&status=<?=$_GET['status']?>',
+                        url: 'controllers/vista.php?op=listar&status=<?= $_GET['status'] ?? '' ?>&year=<?= $_GET['year'] ?? '' ?>',
                         type: 'GET',
                         dataSrc: 'data'
                     },
