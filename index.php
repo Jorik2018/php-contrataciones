@@ -213,19 +213,10 @@ $years=$VistaModel::getYears(null);
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js" integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             $(document).ready(function () {
-                $('#convocatorias').DataTable({
-                    ajax: {
-                        url: 'controllers/vista.php?op=listar&status=<?= $_GET['status'] ?? '' ?>&year=<?= $_GET['year'] ?? '' ?>',
-                        type: 'GET',
-                        dataSrc: 'data'
-                    },
-                    columns: [
-                        {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
-                        {data: 'anexos', title: 'Bases y Anexos', orderable: false},
-                        {data: 'resultados', title: 'Resultados', orderable: false, render: function (data, type, row) {
+                const render =  (data, type, row) => {
 
                             if (!Array.isArray(data) || data.length === 0) {
-                                return '<span class="text-muted">Sin resultados</span>';
+                                return null;
                             }
 
                             let html = '<ul style="padding-left: 18px; margin: 0;">';
@@ -246,7 +237,17 @@ $years=$VistaModel::getYears(null);
                             html += '</ul>';
 
                             return html;
-                        }},
+                        };
+                $('#convocatorias').DataTable({
+                    ajax: {
+                        url: 'controllers/vista.php?op=listar&status=<?= $_GET['status'] ?? '' ?>&year=<?= $_GET['year'] ?? '' ?>',
+                        type: 'GET',
+                        dataSrc: 'data'
+                    },
+                    columns: [
+                        {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
+                        {data: 'anexos', title: 'Bases y Anexos', orderable: false, render},
+                        {data: 'resultados', title: 'Resultados', orderable: false, render},
                         {data: 'observaciones', title: 'Comunicados', orderable: false}
                     ],
                     order: [[0, 'desc']],

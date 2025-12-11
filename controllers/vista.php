@@ -20,12 +20,12 @@ switch ($_GET["op"]) {
             $observaciones_archivos = isset($fila['observaciones_archivos']) ? $fila['observaciones_archivos'] : '';
             $observaciones_descripciones = isset($fila['observaciones_descripciones']) ? $fila['observaciones_descripciones'] : '';
 
-            $anexos = $anexos_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
-                return '<a href="upload/' . $archivo . '" target="_blank">' . htmlspecialchars($descripcion) . '</a>';
-            }, explode(', ', $anexos_archivos), explode(', ', $anexos_descripciones))) : '';
+            $anexos = $anexos_archivos ? array_map(function ($archivo, $descripcion) {
+                return ['fileName' => 'upload/'.$archivo ,'description' => $descripcion];
+            }, explode(', ', $anexos_archivos), explode(', ', $anexos_descripciones)) : '';
 
             $resultados = $resultados_archivos ? array_map(function ($archivo, $descripcion) {
-                return ['fileName'=>$archivo ,'description'=>$descripcion];
+                return ['fileName' => 'upload/'.$archivo ,'description' => $descripcion];
             }, explode(', ', $resultados_archivos), explode(', ', $resultados_descripciones)) : '';
 
             $observaciones = $observaciones_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
