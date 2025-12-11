@@ -221,7 +221,7 @@ $years=$VistaModel::getYears(null);
                         {data: 'resultados', title: 'Resultados', orderable: false, render: function (data, type, row) {
 
 
-        return 333;
+        return data.map(item=>({item.fileName, item.description}));
     }},
                         {data: 'observaciones', title: 'Comunicados', orderable: false}
                     ],
