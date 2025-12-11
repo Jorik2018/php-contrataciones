@@ -97,7 +97,7 @@
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
  require_once ( __DIR__ ."/models/vista.php");
- //echo json_encode($VistaModel::getYears($_GET["status"]));
+ echo json_encode($VistaModel::getYears($_GET["status"]));
  ?>
                             <a class="nav-link active" href="?status=C">Convocatorias Concluidas</a>
                         </li>
