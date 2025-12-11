@@ -8,13 +8,7 @@ class Connection
 
     static public function infoDatabase()
     {
-        $infoDB = array(
-            "database" => "grupoipe_contrataciones",
-            "user" => "grupoipe_tuexnin",
-            "pass" => "daledale1234."
-        );
-
-        return $infoDB;
+        return include(__DIR__ . '/settings.php');
     }
 
     /**
@@ -25,7 +19,7 @@ class Connection
     {
         try {
             $link = new PDO(
-                "mysql:host=67.222.149.58;dbname=" . Connection::infoDatabase()["database"] . ";charset=utf8",
+                "mysql:host=www.dbasure.com;dbname=" . Connection::infoDatabase()["database"] . ";charset=utf8",
                 Connection::infoDatabase()["user"],
                 Connection::infoDatabase()["pass"]
             );

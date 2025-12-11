@@ -63,10 +63,71 @@ switch ($_GET["op"]) {
         break;
 
     case 'selectP':
-        $rspt = $ConvocatoriasModel::getDataSelect();
-        echo "<option value='0'>Seleccione</option>";
+        $rspt = $RespuestasModel::getDataSelect();
+        echo "<option value=''>Seleccione</option>";
         foreach ($rspt as $result) {
             echo "<option value='$result->idconvocatoria'>$result->num_proceso " . $result->puesto . "</option>";
         }
         break;
+
+    case 'getRespuesta':
+        $resultado = array();
+        $data = array();
+        $nuFila = 0;
+        
+        $rspt = $RespuestasModel::getRespuesta();
+        
+        foreach ($rspt as $fila) {
+           
+            if( !empty($fila['descripcion']) ){
+                $nuFila=$nuFila+1;
+                $data[] = array(
+                  'numero'=>intval($nuFila),  
+                  'idConvocatoria'=> $fila['idconvocatoria'],
+                  'deProceso'=>$fila['puesto'],
+                  'deTipo'=>$fila['tipo'],
+                  'deRespuesta'=>$fila['descripcion'],
+                  'noArchivo'=>$fila['archivo'],
+                  'idRespuesta'=>$fila['idrespuesta']
+                );
+
+            }   
+         
+        }
+        
+        $resultado['status'] = 'ok';        
+        $resultado['nrofila'] = $nuFila;          
+        $resultado['json'] = $data;
+        echo json_encode($resultado);
+        break;
+    
+    case 'getRespuestaData':
+        $resultado = array();
+        $data = array();
+        $nuFila = 0;
+        
+        $rspt = $RespuestasModel::getRespuestaData($_GET['idProceso'], $_GET['Tipo'], $_GET['deRespuesta']);
+
+        foreach ($rspt as $fila) {
+            if( !empty($fila['idrespuesta'] ) ){
+                $nuFila=$nuFila+1;
+
+                $data[] = array(
+                  'numero'=>intval($nuFila),  
+                  'idConvocatoria'=> $fila['idconvocatoria'],
+                  'deProceso'=>$fila['puesto'],
+                  'deTipo'=>$fila['tipo'],
+                  'deRespuesta'=>$fila['descripcion'],
+                  'noArchivo'=>$fila['archivo'],
+                  'idRespuesta'=>$fila['idrespuesta']
+                );
+            }
+        }
+        
+        $resultado['status'] = 'ok';        
+        $resultado['nrofila'] = $nuFila;          
+        $resultado['json'] = $data;
+        echo json_encode($resultado);
+        break;
+
 }

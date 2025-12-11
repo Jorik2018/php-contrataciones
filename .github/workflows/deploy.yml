@@ -1,0 +1,33 @@
+name: Deploy wp_ib_hr Plugin to FTP
+
+on:
+  push:
+    branches:
+      - main  # O la rama que usas para este plugin
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate settings.php
+        run: |
+          echo "<?php return [" > settings.php
+          echo "  'database' => 'bwgvinpi_contrataciones'," >> settings.php
+          echo "  'user'     => '${{ secrets.DB_USER }}'," >> settings.php
+          echo "  'pass'     => '${{ secrets.DB_PASS }}'," >> settings.php
+          echo "  'host'     => '${{ secrets.DB_HOST }}'" >> settings.php
+          echo "];" >> settings.php
+
+      - name: Upload Plugin to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./  # Asumiendo que el contenido del plugin está en la raíz del repo
+          server-dir: /engagement/
+          dangerous-clean-slate: true  # Opcional, elimina archivos antiguos

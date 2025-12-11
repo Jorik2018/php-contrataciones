@@ -85,10 +85,10 @@
             <div class="row">
                 <!-- Sidebar -->
                 <div class="col-md-2 sidebar">
-                    <h5>Convocatorias CAS</h5>
+                    <h5>Oportunidad Laboral</h5>
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#">Convocatorias vigentes</a>
+                            <a class="nav-link active" href="#">Convocatorias CAS</a>
                         </li>
 
                     </ul>
@@ -96,12 +96,11 @@
 
                 <!-- Main Content -->
                 <div class="col-md-10 main-content">
-                    <h2>Oportunidades Laborales</h2>
-                    <p>Bienvenido/a al portal web de oportunidades laborales para integrar la familia del Organismo de Focalización e Información Social - OFIS.</p>
+                    <p>Bienvenido/a al portal web de oportunidades laborales del Organismo de Focalización e Información Social (OFIS), donde podrá formar parte de nuestra familia institucional.</p>
                     <br>
-                    <p>En esta sección encontrará los concursos públicos que se encuentran vigentes, es decir, en proceso de difusión y/o desarrollo de la etapa de selección.</p>
+                    <p>En esta sección encontrará los concursos públicos vigentes, es decir, aquellos que se encuentran en etapa de difusión y/o en proceso de selección.</p>
                     <br>
-                    <p>Puede remitir sus consultas al correo: convocatoriascas@ofis.gob.pe en el horario de 08:30 - 17:30; cualquier comunicación recibida con posterioridad, será considerada como recibida al día hábil siguiente.</p>
+                    <p>Para cualquier consulta, puede escribir al correo electrónico convocatoriascas@ofis.gob.pe en el horario de atención de 08:30. Las comunicaciones recibidas fuera de este horario serán consideradas como ingresadas el siguiente día hábil.</p>
                     <br>
                     <div class="table-responsive mt-4">
                         <table id="convocatorias" class="table table-striped">

@@ -4,8 +4,14 @@ require_once "connection.php";
 
 class Respuestas{
     
+    /*
     static public function getDataSelect (){
         $sql = "SELECT * FROM convocatorias";
+        return Connection::executeQuery($sql);
+    }
+    */
+    static public function getDataSelect (){
+        $sql = "SELECT * FROM convocatorias order by idconvocatoria desc";
         return Connection::executeQuery($sql);
     }
 
@@ -36,4 +42,24 @@ class Respuestas{
         return Connection::executeQuery($sql);
     }
 
+    static public function getRespuesta(){
+        //$sql = "SELECT r.idconvocatoria, (select c.puesto from convocatorias c where c.idconvocatoria=r.idconvocatoria) as puesto, r.tipo, r.descripcion, r.archivo, r.idconvocatoria FROM respuestas r ";     
+        $sql = "SELECT CONVERT(r.idconvocatoria, CHAR) as idconvocatoria, c.puesto, r.tipo, r.descripcion, r.archivo, CONVERT(r.idconvocatoria, CHAR) as idrespuesta FROM respuestas r INNER JOIN convocatorias c ON r.idconvocatoria=c.idconvocatoria order by r.idrespuesta desc "; 
+        return Connection::executeQueryAsoc($sql);
+    }
+
+    static public function getRespuestaData($idProceso, $Tipo, $deRespuesta){
+        $sql = "SELECT CONVERT(r.idconvocatoria, CHAR) as idconvocatoria, (select c.puesto from convocatorias c where c.idconvocatoria=r.idconvocatoria) as puesto, r.tipo, r.descripcion, r.archivo, CONVERT(r.idconvocatoria, CHAR) as idrespuesta FROM respuestas r WHERE r.idrespuesta is not null";
+        if( $idProceso!="NO" ){
+            $sql = $sql." AND r.idconvocatoria=".$idProceso;
+        }
+        if( $Tipo!="NO" ){            
+            $sql = $sql." AND UPPER(r.tipo) LIKE UPPER('%".$Tipo."%')";
+        }
+        if( $deRespuesta!="NO" ){
+            $sql = $sql." AND UPPER(r.descripcion) LIKE UPPER('%".$deRespuesta."%')";
+        }
+        $sql = $sql." order by r.idrespuesta desc ";
+        return Connection::executeQueryAsoc($sql);
+    }
 }

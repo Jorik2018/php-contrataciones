@@ -25,4 +25,62 @@ switch ($_GET["op"]) {
             echo "<option value='$result->idconvocatoria'>$result->num_proceso " . $result->puesto . "</option>";
         }
         break;
+
+    case 'getCovocatoria':
+        $resultado = array();
+        $data = array();
+        $nuFila = 0;
+        
+        $rspt = $ConvocatoriasModel::getTodaDataConvo();
+        
+        foreach ($rspt as $fila) {
+            if( !empty($fila['num_proceso'] ) ){
+                $nuFila=$nuFila+1;
+
+                $data[] = array(
+                  'numero'=>intval($nuFila),  
+                  'nuProceso'=> $fila['num_proceso'],
+                  'dePuesto'=>$fila['puesto'],
+                  'nuVacantes'=>$fila['vacantes'],
+                  'nuAno'=>$fila['ano'],
+                  'fePublica'=>$fila['fecha_publica'] 
+                );
+            }
+        }
+        
+        $resultado['status'] = 'ok';        
+        $resultado['nrofila'] = $nuFila;          
+        $resultado['json'] = $data;
+        echo json_encode($resultado);
+        break;
+    
+    case 'getCovocatoriaData':
+        
+        $resultado = array();
+        $data = array();
+        $nuFila = 0;
+            
+        $rspt = $ConvocatoriasModel::getPorDatoConvo($_GET['puesto'], $_GET['nuProceso'], $_GET['nuVacantes']);
+          
+        foreach ($rspt as $fila) {
+            if( !empty($fila['num_proceso'] ) ){
+                $nuFila=$nuFila+1;
+    
+                $data[] = array(
+                      'numero'=>intval($nuFila),  
+                      'nuProceso'=> $fila['num_proceso'],
+                      'dePuesto'=>$fila['puesto'],
+                      'nuVacantes'=>$fila['vacantes'],
+                      'nuAno'=>$fila['ano'],
+                      'fePublica'=>$fila['fecha_publica'] 
+                );
+            }
+        }
+            
+        $resultado['status'] = 'ok';        
+        $resultado['nrofila'] = $nuFila;          
+        $resultado['json'] = $data;
+        echo json_encode($resultado);
+        break;
+
 }
