@@ -98,7 +98,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
  require_once ( __DIR__ ."/models/vista.php");
  $VistaModel = new Vista();
-$years=$VistaModel::getYears();
+$years=$VistaModel::getYears(null);
  foreach ($years as $item){
 ?>
     <li>
