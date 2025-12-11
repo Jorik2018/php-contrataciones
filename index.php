@@ -93,7 +93,7 @@
  <li class="nav-item">
 
  <?
- require_once "/models/vista.php";
+ //require_once "/models/vista.php";
  //echo json_encode($VistaModel::getYears($_GET["status"]));
  ?>
                             <a class="nav-link active" href="?status=C">Convocatorias Concluidas</a>
