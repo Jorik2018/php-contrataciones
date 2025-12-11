@@ -24,9 +24,9 @@ switch ($_GET["op"]) {
                 return '<a href="upload/' . $archivo . '" target="_blank">' . htmlspecialchars($descripcion) . '</a>';
             }, explode(', ', $anexos_archivos), explode(', ', $anexos_descripciones))) : '';
 
-            $resultados = $resultados_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
-                return '<a href="upload/' . $archivo . '" target="_blank">' . htmlspecialchars($descripcion) . '</a>';
-            }, explode(', ', $resultados_archivos), explode(', ', $resultados_descripciones))) : '';
+            $resultados = $resultados_archivos ? array_map(function ($archivo, $descripcion) {
+                return [$archivo ,$descripcion];
+            }, explode(', ', $resultados_archivos), explode(', ', $resultados_descripciones)) : '';
 
             $observaciones = $observaciones_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
                 return '<a href="upload/' . $archivo . '" target="_blank">' . htmlspecialchars($descripcion) . '</a>';
