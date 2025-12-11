@@ -91,7 +91,7 @@
                             <a class="nav-link active" href="#">Convocatorias CAS</a>
                         </li>
  <li class="nav-item">
-                            <a class="nav-link active" href="#">Convocatorias Concluidas</a>
+                            <a class="nav-link active" href="?status=C">Convocatorias Concluidas</a>
                         </li>
 
                     </ul>
@@ -192,7 +192,7 @@
             $(document).ready(function () {
                 $('#convocatorias').DataTable({
                     ajax: {
-                        url: 'controllers/vista.php?op=listar',
+                        url: 'controllers/vista.php?op=listar&status='.$_GET['status'],
                         type: 'GET',
                         dataSrc: 'data'
                     },
