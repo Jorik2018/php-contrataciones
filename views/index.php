@@ -1,25 +1,6 @@
 <?php
-//print "<p>Su SESSION es ".$_SESSION."</p>\n";
-//print "<p>Su USUARIO es ".$_SESSION["usuario"]."</p>\n";
-/*
-if( !isset($_SESSION) ) {
-    print "<p>No sé su nombre.</p>\n";
-    define('MSG_ERROR',"<font face='Arial' size='3' color=#d50000><b>Usuario no acreditado. Ingresar con usuario y password</b></font>");
-
-    print(MSG_ERROR);
-    exit();
-} else {
-    //print "<p>Su nombre es $_SESSION[nombre].</p>\n";
-    //$.nombres=$_SESSION["nombre"];
-    //$.apellidos=$_SESSION["primerAp"]." ".$_SESSION["segundoAp"];
-    //$.usuarios = $_SESSION["usuario"];
-    //print "<p>Su nombre es $_SESSION[nombre].</p>\n";
-    print "<p>Su USUARIO es $_SESSION[usuario].</p>\n";
-}
-*/ 
 $parts = explode('/', trim($_SERVER['SCRIPT_NAME'], '/'));
-$projectFolder = $parts[0];        // engagement
-$basePath = '/' . $projectFolder; // sube 1 nivel → /miProyecto
+$basePath = '/' . $parts[0];
 ?>
 <!DOCTYPE html>
 <html lang="en">

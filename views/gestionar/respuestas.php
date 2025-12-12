@@ -1,12 +1,6 @@
 <?php
-/*
-if( isset($_SESSION["usuario"]) ) {
-    print "<p>Su nombre es $_SESSION[nombre].</p>\n";
-} else {
-    print "<p>No sé su nombre.</p>\n";
-    define('MSG_ERROR',"<font face='Arial' size='3' color=#d50000><b>Usuario no acreditado. Ingresar con usuario y password</b></font>");
-}
-*/  
+$parts = explode('/', trim($_SERVER['SCRIPT_NAME'], '/'));
+$basePath = '/' . $parts[0].'/' . $parts[1];
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -16,20 +10,20 @@ if( isset($_SESSION["usuario"]) ) {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <link rel="shortcut icon" href="http://localhost/contratacionesv/vigentes/assets/img/favicon_ofis.ico">
+        <link rel="shortcut icon" href="<?=$basePath?>/assets/img/favicon_ofis.ico">
         <title>Convocatoria</title>
                 
-        <link href="http://localhost/contratacionesv/vigentes/assets/css/bootstrap/bootstrap.min.css" rel="stylesheet" />
-        <link href="http://localhost/contratacionesv/vigentes/assets/css/datatables/dataTables.css" rel="stylesheet" />
-		<link href="http://localhost/contratacionesv/vigentes/assets/css/select2/select2.min.css" rel="stylesheet">
+        <link href="<?=$basePath?>/assets/css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+        <link href="<?=$basePath?>/assets/css/datatables/dataTables.css" rel="stylesheet" />
+		<link href="<?=$basePath?>/assets/css/select2/select2.min.css" rel="stylesheet">
 		
-        <link href="http://localhost/contratacionesv/vigentes/assets/css/styles.css" rel="stylesheet" />
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/fontawesome/all.js" crossorigin="anonymous"></script> 
+        <link href="<?=$basePath?>/assets/css/styles.css" rel="stylesheet" />
+        <script src="<?=$basePath?>/assets/js/fontawesome/all.js" crossorigin="anonymous"></script> 
     </head>
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-ofis bg-ofis">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="http://localhost/contratacionesv/vigentes/views/index.php"></a>
+            <a class="navbar-brand ps-3" href="<?=$basePath?>/views/index.php"></a>
             <!-- Sidebar Toggle-->
             <button class="btn btn-link-ofis btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
             <!-- Navbar Search-->            
@@ -42,7 +36,7 @@ if( isset($_SESSION["usuario"]) ) {
                         <li><a class="dropdown-item" href="#!">Settings</a></li>
                         <li><a class="dropdown-item" href="#!">Activity Log</a></li>
                         <li><hr class="dropdown-divider" /></li>
-                        <li><a class="dropdown-item hiderBtoSalir" href="http://localhost/contratacionesv/vigentes/login.php"><i class="fa fa-sign-out"></i>&nbsp;&nbsp;Salir</a></li>
+                        <li><a class="dropdown-item hiderBtoSalir" href="<?=$basePath?>/login.php"><i class="fa fa-sign-out"></i>&nbsp;&nbsp;Salir</a></li>
                     </ul>
                 </li>
             </ul>
@@ -54,11 +48,11 @@ if( isset($_SESSION["usuario"]) ) {
                         <div class="nav">
                             <div class="sb-sidenav-menu-heading menu">MENÚ</div>
                             <div class="sb-sidenav-menu-heading">GESTINAR</div>
-                            <a class="nav-link" href="http://localhost/contratacionesv/vigentes/views/gestionar/convocatorias.php">
+                            <a class="nav-link" href="<?=$basePath?>/views/gestionar/convocatorias.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-chart-area"></i></div>
                                 Convocatorias
                             </a>
-                            <a class="nav-link" href="http://localhost/contratacionesv/vigentes/views/gestionar/respuestas.php">
+                            <a class="nav-link" href="<?=$basePath?>/views/gestionar/respuestas.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                                 Respuestas
                             </a>
@@ -75,7 +69,7 @@ if( isset($_SESSION["usuario"]) ) {
                     <div class="container-fluid px-4">
                         <h1 class="mt-4">Gestionar Respuestas</h1>
                         <ol class="breadcrumb mb-4">
-                            <li class="breadcrumb-item"><a href="http://localhost/contratacionesv/vigentes/views/index.php">Inicio</a></li>
+                            <li class="breadcrumb-item"><a href="<?=$basePath?>/views/index.php">Inicio</a></li>
                             <li class="breadcrumb-item active">Respuestas</li>
                         </ol>
                         
@@ -208,12 +202,12 @@ if( isset($_SESSION["usuario"]) ) {
             </div>
         </div>
 
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/bootstrap/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/bootstrap/popper.min.js" crossorigin="anonymous"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/jquery/jquery-min.js" crossorigin="anonymous"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/datatables/dataTables.js" crossorigin="anonymous"></script>
-		<script src="http://localhost/contratacionesv/vigentes/assets/js/select2/select2.full.min.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/scripts.js" crossorigin="anonymous"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/gestionar/respuestas.js" crossorigin="anonymous"></script>        
+        <script src="<?=$basePath?>/assets/js/bootstrap/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="<?=$basePath?>/assets/js/bootstrap/popper.min.js" crossorigin="anonymous"></script>
+        <script src="<?=$basePath?>/assets/js/jquery/jquery-min.js" crossorigin="anonymous"></script>
+        <script src="<?=$basePath?>/assets/js/datatables/dataTables.js" crossorigin="anonymous"></script>
+		<script src="<?=$basePath?>/assets/js/select2/select2.full.min.js"></script>
+        <script src="<?=$basePath?>/assets/js/scripts.js" crossorigin="anonymous"></script>
+        <script src="<?=$basePath?>/assets/js/gestionar/respuestas.js" crossorigin="anonymous"></script>        
     </body>
 </html>
