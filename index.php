@@ -266,7 +266,7 @@ const render = (data, type, row) => {
                         {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
                         {data: 'anexos', title: 'Bases y Anexos', orderable: false, render},
                         {data: 'resultados', title: 'Resultados', orderable: false, render},
-                        {data: 'observaciones', title: 'Comunicados', orderable: false}
+                        {data: 'observaciones', title: 'Comunicados', orderable: false, render}
                     ],
                     order: [[0, 'desc']],
                     language: {

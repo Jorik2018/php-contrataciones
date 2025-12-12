@@ -28,9 +28,9 @@ switch ($_GET["op"]) {
                 return ['fileName' => 'upload/'.$archivo ,'description' => $descripcion];
             }, explode(', ', $resultados_archivos), explode(', ', $resultados_descripciones)) : '';
 
-            $observaciones = $observaciones_archivos ? implode('<br>', array_map(function ($archivo, $descripcion) {
-                return '<a href="upload/' . $archivo . '" target="_blank">' . htmlspecialchars($descripcion) . '</a>';
-            }, explode(', ', $observaciones_archivos), explode(', ', $observaciones_descripciones))) : '';
+            $observaciones = $observaciones_archivos ? array_map(function ($archivo, $descripcion) {
+                return ['fileName' => 'upload/'.$archivo ,'description' => $descripcion];
+            }, explode(', ', $observaciones_archivos), explode(', ', $observaciones_descripciones)) : '';
 
             $data[] = [ // Aquí se llena el arreglo
                 "concurso_publico" => $fila['concurso_publico'],
