@@ -14,8 +14,8 @@ $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
         <meta name="author" content="">
         <link rel="shortcut icon" href="<?=$basePath?>/assets/img/favicon_ofis.ico">
         <title>OFIS</title>
-        <link rel="stylesheet" href="<?=$basePath?>/vigentes/assets/css/bootstrap/bootstrap.min-alpha3.css">
-        <link rel="stylesheet" href="<?=$basePath?>/vigentes/assets/css/bootstrap/bootstrap.min.css">
+        <link rel="stylesheet" href="<?=$basePath?>/assets/css/bootstrap/bootstrap.min-alpha3.css">
+        <link rel="stylesheet" href="<?=$basePath?>/assets/css/bootstrap/bootstrap.min.css">
         <link rel="stylesheet" href="<?=$basePath?>/assets/css/fontawesome/css/font-awesome.min.css">
         <link rel="stylesheet" href="<?=$basePath?>/assets/js/jquery.gritter/css/jquery.gritter.css">        
         <link rel="stylesheet" href="<?=$basePath?>/assets/css/app.css">        
