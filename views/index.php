@@ -19,7 +19,7 @@ if( !isset($_SESSION) ) {
 */ 
 $parts = explode('/', trim($_SERVER['SCRIPT_NAME'], '/'));
 $projectFolder = $parts[0];        // engagement
-$basePath = '/' . $projectFolder . '/'; // sube 1 nivel → /miProyecto
+$basePath = '/' . $projectFolder; // sube 1 nivel → /miProyecto
 ?>
 <!DOCTYPE html>
 <html lang="en">
