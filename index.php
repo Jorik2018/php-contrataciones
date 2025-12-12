@@ -219,27 +219,33 @@ const render = (data, type, row) => {
         return null;
     }
 
-    let html = '<ul style="padding-left: 0; margin: 0;">';
+    let html = '<ul style="padding-left: 18px; margin: 0;">';
 
     data.forEach(item => {
         const file = item.fileName || '#';
         const desc = item.description || 'Archivo';
 
-        // Detectar extensión (si no hay dot devuelve vacío)
+        // Detectar extensión
         const ext = file.split('.').pop().toLowerCase();
 
-        // Elegir icono según extensión
-        let icon = 'fa-solid fa-file'; // default
+        let icon = 'fa-file';
+        let color = '#6c757d'; // gris por defecto
 
-        if (['pdf'].includes(ext)) icon = 'fa-solid fa-file-pdf';
-        else if (['doc', 'docx'].includes(ext)) icon = 'fa-solid fa-file-word';
-        else if (['xls', 'xlsx'].includes(ext)) icon = 'fa-solid fa-file-excel';
+        if (['pdf'].includes(ext)) {
+            icon = 'fa-file-pdf';
+            color = '#d9534f';
+        } else if (['xls', 'xlsx', 'csv'].includes(ext)) {
+            icon = 'fa-file-excel';
+            color = '#1d6f42';
+        } else if (['doc', 'docx'].includes(ext)) {
+            icon = 'fa-file-word';
+            color = '#0d6efd';
+        }
 
         html += `
             <li style="margin-bottom: 4px; list-style: none;">
                 <a href="${file}" target="_blank">
-                    <i class="${icon}" style="margin-right:5px;"></i>
-                    ${desc}
+                    <i class="fa-solid ${icon}" style="color:${color}; margin-right:3px;"></i>${desc}
                 </a>
             </li>
         `;
