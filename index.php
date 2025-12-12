@@ -106,7 +106,7 @@
                                     foreach ($years as $item){
                                     ?>
                                     <li>
-                                        <a class="nav-link active" href="?year=<?= $item['ano'] ?>">
+                                        <a class="nav-link active" href="?year=<?= $item['ano'] ?>&status=C">
                                             <?= $item['ano'] ?>
                                         </a>
                                     </li>
