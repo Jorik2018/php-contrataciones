@@ -1,6 +1,7 @@
 <?php
 $parts = explode('/', trim($_SERVER['SCRIPT_NAME'], '/'));
 $basePath = '/' . $parts[0].'/' . $parts[1];
+die($basePath)
 ?>
 <!DOCTYPE html>
 <html lang="en">
