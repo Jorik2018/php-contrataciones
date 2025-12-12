@@ -90,29 +90,34 @@
                         <li class="nav-item">
                             <a class="nav-link active" href="#">Convocatorias CAS</a>
                         </li>
- <li class="nav-item">
-
- <?
- ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
- require_once ( __DIR__ ."/models/vista.php");
- $VistaModel = new Vista();
-$years=$VistaModel::getYears(null);
- foreach ($years as $item){
-?>
-    <li>
-        <a class="nav-link active" href="?year=<?= $item['ano'] ?>">
-            <?= $item['ano'] ?>
-        </a>
-    </li>
-<?
- }
-
- ?>
+                        <?php
+                            ini_set('display_errors', 1);
+                            ini_set('display_startup_errors', 1);
+                            error_reporting(E_ALL);
+                            require_once ( __DIR__ ."/models/vista.php");
+                            $VistaModel = new Vista();
+                            $years=$VistaModel::getYears(null);
+                            if(count($years)){
+                        ?>
+                        <li class="nav-item">
                             <a class="nav-link active" href="?status=C">Convocatorias Concluidas</a>
+                            <ul>
+                                 <?php
+                                    foreach ($years as $item){
+                                    ?>
+                                    <li>
+                                        <a class="nav-link active" href="?year=<?= $item['ano'] ?>">
+                                            <?= $item['ano'] ?>
+                                        </a>
+                                    </li>
+                                    <?php
+                                    }
+                                    ?>
+                            </ul>
                         </li>
-
+                        <?php
+                            }
+                            ?>
                     </ul>
                 </div>
 
