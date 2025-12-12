@@ -18,6 +18,7 @@ if( !isset($_SESSION) ) {
 }
 */ 
 $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');   
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
