@@ -213,31 +213,43 @@ $years=$VistaModel::getYears(null);
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js" integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script>
             $(document).ready(function () {
-                const render =  (data, type, row) => {
+const render = (data, type, row) => {
 
-                            if (!Array.isArray(data) || data.length === 0) {
-                                return null;
-                            }
+    if (!Array.isArray(data) || data.length === 0) {
+        return null;
+    }
 
-                            let html = '<ul style="padding-left: 18px; margin: 0;">';
+    let html = '<ul style="padding-left: 0; margin: 0;">';
 
-                            data.forEach(item => {
-                                const file = item.fileName || '#';
-                                const desc = item.description || 'Archivo';
+    data.forEach(item => {
+        const file = item.fileName || '#';
+        const desc = item.description || 'Archivo';
 
-                                html += `
-                                    <li style="margin-bottom: 4px; list-style: none;">
-                                        <a href="${file}" target="_blank">
-                                            <i class="fa-solid fa-file-pdf" style="color:#d9534f; margin-right:3px;"></i>${desc}
-                                        </a>
-                                    </li>
-                                `;
-                            });
+        // Detectar extensión (si no hay dot devuelve vacío)
+        const ext = file.split('.').pop().toLowerCase();
 
-                            html += '</ul>';
+        // Elegir icono según extensión
+        let icon = 'fa-solid fa-file'; // default
 
-                            return html;
-                        };
+        if (['pdf'].includes(ext)) icon = 'fa-solid fa-file-pdf';
+        else if (['doc', 'docx'].includes(ext)) icon = 'fa-solid fa-file-word';
+        else if (['xls', 'xlsx'].includes(ext)) icon = 'fa-solid fa-file-excel';
+
+        html += `
+            <li style="margin-bottom: 4px; list-style: none;">
+                <a href="${file}" target="_blank">
+                    <i class="${icon}" style="margin-right:5px;"></i>
+                    ${desc}
+                </a>
+            </li>
+        `;
+    });
+
+    html += '</ul>';
+
+    return html;
+};
+
                 $('#convocatorias').DataTable({
                     ajax: {
                         url: 'controllers/vista.php?op=listar&status=<?= $_GET['status'] ?? '' ?>&year=<?= $_GET['year'] ?? '' ?>',
