@@ -17,8 +17,16 @@ if( !isset($_SESSION) ) {
     print "<p>Su USUARIO es $_SESSION[usuario].</p>\n";
 }
 */ 
-$basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');   
-$basePath = dirname($current); // sube 1 nivel → /miProyecto
+$currentFile = realpath(__FILE__);
+
+// Ruta absoluta del public root (DocumentRoot)
+$docRoot = realpath($_SERVER['DOCUMENT_ROOT']);
+
+// Calculamos el path relativo del proyecto
+$relativePath = str_replace($docRoot, '', dirname($currentFile));
+
+// Lo dejamos con slash al final siempre
+$basePath = rtrim($relativePath, '/') . '/'; // sube 1 nivel → /miProyecto
 ?>
 <!DOCTYPE html>
 <html lang="en">
