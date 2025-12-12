@@ -2,7 +2,7 @@
 if (!isset($_SESSION)) {
     session_start();
 }
-
+$basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -12,14 +12,14 @@ if (!isset($_SESSION)) {
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="">
         <meta name="author" content="">
-        <link rel="shortcut icon" href="http://localhost/contratacionesv/vigentes/assets/img/favicon_ofis.ico">
+        <link rel="shortcut icon" href="<?=$basePath?>/assets/img/favicon_ofis.ico">
         <title>OFIS</title>
-        <link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/css/bootstrap/bootstrap.min-alpha3.css">
-        <link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/css/bootstrap/bootstrap.min.css">
-        <link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/css/fontawesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/js/jquery.gritter/css/jquery.gritter.css">        
-        <link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/css/app.css">        
-        <!--link rel="stylesheet" href="http://localhost/contratacionesv/vigentes/assets/css/styles.css"-->
+        <link rel="stylesheet" href="<?=$basePath?>/vigentes/assets/css/bootstrap/bootstrap.min-alpha3.css">
+        <link rel="stylesheet" href="<?=$basePath?>/vigentes/assets/css/bootstrap/bootstrap.min.css">
+        <link rel="stylesheet" href="<?=$basePath?>/assets/css/fontawesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?=$basePath?>/assets/js/jquery.gritter/css/jquery.gritter.css">        
+        <link rel="stylesheet" href="<?=$basePath?>/assets/css/app.css">        
+        <!--link rel="stylesheet" href="<?=$basePath?>/assets/css/styles.css"-->
     </head>
     
     <body>
@@ -31,7 +31,7 @@ if (!isset($_SESSION)) {
                 <div class="panel panel-border-login">
                     
                     <div class="panel-heading">
-                        <img alt="logo" width="360" height="70" class="logo-img" src="http://localhost/contratacionesv/vigentes/assets/img/ofis.jpg" /><br/>
+                        <img alt="logo" width="360" height="70" class="logo-img" src="<?=$basePath?>/assets/img/ofis.jpg" /><br/>
                         <h2>Sistema Convocatoria - OFIS</h2>
                         <span class="description-login">Introduzca su informaci&oacute;n de usuario.</span>    	
                     </div>
@@ -87,14 +87,14 @@ if (!isset($_SESSION)) {
     			
 	</div>
             
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/jquery/jquery-min.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/bootstrap/popper.min.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/bootstrap/bootstrap.min.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/jquery.alphanum.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/jquery.gritter/js/jquery.gritter.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/app.js"></script>
-        <script src="http://localhost/contratacionesv/vigentes/assets/js/seguridad/seguridad.js"></script>
+        <script src="<?=$basePath?>/assets/js/jquery/jquery-min.js"></script>
+        <script src="<?=$basePath?>/assets/js/bootstrap/popper.min.js"></script>
+        <script src="<?=$basePath?>/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+        <script src="<?=$basePath?>/assets/js/bootstrap/bootstrap.min.js"></script>
+        <script src="<?=$basePath?>/assets/js/jquery.alphanum.js"></script>
+        <script src="<?=$basePath?>/assets/js/jquery.gritter/js/jquery.gritter.js"></script>
+        <script src="<?=$basePath?>/assets/js/app.js"></script>
+        <script src="<?=$basePath?>/assets/js/seguridad/seguridad.js"></script>
         
         <script>           
         </script>
