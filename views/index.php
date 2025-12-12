@@ -18,7 +18,8 @@ if( !isset($_SESSION) ) {
 }
 */ 
 $basePath = rtrim(dirname($_SERVER['SCRIPT_NAME']), '/');   
-
+$basePath = dirname($current); // sube 1 nivel → /miProyecto
+$basePath = $basePath === '/' ? '/' : $basePath . '/';
 ?>
 <!DOCTYPE html>
 <html lang="en">
