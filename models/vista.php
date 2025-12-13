@@ -12,7 +12,7 @@ class Vista{
             c.idconvocatoria,
             c.ano,
             c.vacantes,
-            CONCAT(c.num_proceso, ' - ', c.ano,' - ', c.puesto, ' - vacatentes (',c.vacantes,')') AS concurso_publico,
+            CONCAT(c.num_proceso, ' - ', c.ano,' - ', c.puesto, ' - vacantes (',c.vacantes,')') AS concurso_publico,
             GROUP_CONCAT(CASE WHEN r.tipo = 'anexos' THEN r.archivo END SEPARATOR ', ') AS anexos_archivos,
             GROUP_CONCAT(CASE WHEN r.tipo = 'anexos' THEN r.descripcion END SEPARATOR ', ') AS anexos_descripciones,
             GROUP_CONCAT(CASE WHEN r.tipo = 'resultados' THEN r.archivo END SEPARATOR ', ') AS resultados_archivos,
