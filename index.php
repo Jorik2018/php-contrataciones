@@ -268,10 +268,10 @@ const render = (data, type, row) => {
                         dataSrc: 'data'
                     },
                     columns: [
-                        {data: 'concurso_publico', title: 'Concurso Público CAS N°'},
-                        {data: 'anexos', title: 'Bases y Anexos', orderable: false, render},
-                        {data: 'resultados', title: 'Resultados', orderable: false, render},
-                        {data: 'observaciones', title: 'Comunicados', orderable: false, render}
+                        {data: 'concurso_publico', title: 'Concurso Público CAS N°', width: '50%'},
+                        {data: 'anexos', title: 'Bases y Anexos', orderable: false, render, width: '16.66%'},
+                        {data: 'resultados', title: 'Resultados', orderable: false, render, width: '16.66%'},
+                        {data: 'observaciones', title: 'Comunicados', orderable: false, render, width: '16.66%'}
                     ],
                     order: [[0, 'desc']],
                     language: {
