@@ -6,7 +6,7 @@ $VistaModel = new Vista();
 
 switch ($_GET["op"]) {
     case 'listar':
-        $rspt = $VistaModel::getDataSelect($_GET["status"]); 
+        $rspt = $VistaModel::getDataSelect($_GET); 
         
         $data = []; // Inicializa el arreglo de datos
 
