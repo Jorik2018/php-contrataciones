@@ -29,7 +29,7 @@ class Vista{
     }
 
     static public function getYears ($status){
-        $sql = "SELECT distinct ano FROM convocatorias WHERE c.status='C'";
+        $sql = "SELECT distinct ano FROM convocatorias WHERE status='C'";
         return Connection::executeQueryAsoc($sql);
     }
 
