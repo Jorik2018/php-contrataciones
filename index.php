@@ -131,12 +131,12 @@
                     <br>
                     <div class="table-responsive mt-4">
                         <table id="convocatorias" class="table table-striped">
-                            <thead class="table-dark" style="text-align:center">
+                            <thead class="table-dark" >
                                 <tr>
-                                    <th>Concurso Público CAS N°</th>
-                                    <th>Bases y Anexos</th>
-                                    <th>Resultados</th>
-                                    <th>Comunicados</th>
+                                    <th style="text-align:center">Concurso Público CAS N°</th>
+                                    <th style="text-align:center">Bases y Anexos</th>
+                                    <th style="text-align:center">Resultados</th>
+                                    <th style="text-align:center">Comunicados</th>
                                 </tr>
                             </thead>
                             <tbody>
